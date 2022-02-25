@@ -13,5 +13,6 @@ I want to be Frontend developer who is an expert in React.</h4>
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;">
 </div>
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width: 100%;">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/ezdar2743/github-readme-stats)
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/e85b8415be28d4125bcbc5f216971207bd0c6ea68f16036222bcb79f02f9832c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6c65657365756e676d696e30" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ezdar2743" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/e85b8415be28d4125bcbc5f216971207bd0c6ea68f16036222bcb79f02f9832c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6c65657365756e676d696e30" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ezdar2743" style="max-width: 100%;"></a>
 
