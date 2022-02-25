@@ -7,8 +7,8 @@
 <h4>Hi I'm Hyunseok🙃 I am From Korea, currently residing in Fukuoka.<br>
     <br>
 I want to be Frontend developer who is an expert in React.</h4>
-<img src="https://github-readme-stats.vercel.app/api?username=ezdar2743&show_icons=true&theme=radical">ezdar2743's GitHub stats</img>
-<h3>🔧skills&tools</h3>
+
+<h2>🔧skills&tools</h2>
 <div style = "display: flex;">
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;">
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;">
@@ -19,4 +19,5 @@ I want to be Frontend developer who is an expert in React.</h4>
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width: 100%;">
     
 </div>
+<img src="https://github-readme-stats.vercel.app/api?username=ezdar2743&show_icons=true&theme=radical"></img>
     
