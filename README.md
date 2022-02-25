@@ -1,6 +1,7 @@
 <img src="https://img.shields.io/badge/ezdar2743@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="https://ameblo.jp/ezdar/entrylist.html"><img src="https://img.shields.io/badge/instagram-9933FF?style=flat-square&logo=instagram&logoColor=pink"/></a>
 <a href="https://ameblo.jp/ezdar/entrylist.html"><img src="https://img.shields.io/badge/blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
-<a href="https://ameblo.jp/ezdar/entrylist.html"><img src="https://img.shields.io/badge/instagram-09B3AF?style=flat-square&logo=instagram&logoColor=pink"/></a>
+
 <h4>Hi I'm Hyunseok🙃 I am From Korea, currently residing in Fukuoka.<br>
     <br>
 I want to be Frontend developer who is an expert in React.</h4>
