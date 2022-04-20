@@ -17,7 +17,6 @@ Recently I am studying Graphql 😎✨</h4>
       <img src="https://img.shields.io/badge/-NextJs-000000?logo=react&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-ApolloClient-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
     </div> 
-    <br />
     <div >
       <h4>スタイル　Style</h4>
       <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
