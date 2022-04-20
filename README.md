@@ -20,8 +20,6 @@ Recently I am studying go TS 😎✨</h4>
       <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-NextJs-000000?logo=react&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-ApolloClient-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
-    
-
    
     <br />
     <div style="margin-top:10px;">
