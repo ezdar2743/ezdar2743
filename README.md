@@ -15,8 +15,7 @@
       <h4>スタイル　Style</h4>
       <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styledcomponents&logoColor=white&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/-Post%20CSS-e84118?logo=postcss&logoColor=white&style=for-the-badge" />
-       
+      <img src="https://img.shields.io/badge/-Post%20CSS-e84118?logo=postcss&logoColor=white&style=for-the-badge" />   
     </div>
     <br />
     <div>
@@ -32,8 +31,7 @@
       <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-PlanetScale-8467F3?style=for-the-badge" />
       <img src="https://img.shields.io/badge/-Git-F1502F?logo=git&logoColor=white&style=for-the-badge" />
-      <img src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=for-the-badge" />
-      
+      <img src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=for-the-badge" />  
     </div>
     </div>
       
