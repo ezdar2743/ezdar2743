@@ -33,6 +33,7 @@
       <img src="https://img.shields.io/badge/-Git-F1502F?logo=git&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=for-the-badge" />  
     </div>
-    <img src="https://github-readme-stats.vercel.app/api?username=ezdar2743&show_icons=true&theme=radical">ezdar2743's GitHub stats</img>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ezdar2743&show_icons=true&theme=radical"></img>
     </div>
       
