@@ -1,7 +1,4 @@
-
-
-<div>
-    <div align="center">
+<div align="center">
       <img src="https://capsule-render.vercel.app/api?type=waving&height=300&animation=fadeIn&color=0097e6&text=Ezdar&desc=フロントエンドDev&fontColor=ffffff&descSize=30&fontAlign=30&descAlign=75&descAlignY=50" />
         
     <h3>スキル Skills 🔨<h3/>
@@ -38,7 +35,3 @@
       <img src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=for-the-badge" />
       
     </div>
-      
-    </div>
-  </div>
-  
