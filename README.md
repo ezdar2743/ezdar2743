@@ -7,7 +7,7 @@
   <br>
 Recently I am studying Graphql 😎✨</h4>
  
-    <img src="https://github-readme-stats.vercel.app/api?username=ezdar2743&show_icons=true&theme=radical"></img>
+
    
     
     
